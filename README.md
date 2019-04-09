@@ -2,9 +2,9 @@
 
 # [WIP]
 
-<!--
-![Screenshot, showing JavaScript in yellow, EmberScript in off-white, Fortran in a bright purple/violet, and Crystal in black](screenshot.png)
--->
+
+![Screenshot, showing JavaScript in yellow, EmberScript in off-white, Fortran in purple/violet, and Crystal in black](screenshot.png)
+
 
 ## Testing the programs
 
