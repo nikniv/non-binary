@@ -1,8 +1,5 @@
 # Non-Binary Pride in GitHub Repository Languages
 
-# [WIP]
-
-
 ![Screenshot, showing JavaScript in yellow, EmberScript in off-white, Fortran in purple/violet, and Crystal in black](screenshot.png)
 
 
