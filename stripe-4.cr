@@ -7,5 +7,5 @@ class Greeter
   end
 end
 
-g = Greeter.new("Stripe 4")
+g = Greeter.new("4")
 g.salute
