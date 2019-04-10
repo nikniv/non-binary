@@ -5,7 +5,7 @@
 
 ## Testing the programs
 
-Yes, they all at least run, some even do something!
+Executable programs that do little, but were crafted with love all the same!
 
 - `1-yellow.js` was tested in browser console, and then on <js.do>
 - `2-offwhite.emberscript` was tested with the EmberScript editors on <emberscript.com>
